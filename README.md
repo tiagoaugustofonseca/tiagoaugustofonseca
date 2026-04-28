@@ -15,7 +15,6 @@
 - → Estudante de **Engenharia da Computação** (2025 → 2029) apaixonado por tecnologia
 - → Explorando diversas áreas da tecnologia como **Inteligência artificial** e **Cloud**
 - → Nível intermediário em Python e sempre buscando **superar** os meus limites
-- → Curioso por natureza — se existe algo para entender, eu quero entender
 - → Acredito que a melhor forma de aprender é **praticando**
 
 ---
