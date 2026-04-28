@@ -53,7 +53,7 @@
 
 ## 🛠️ Tecnologias & ferramentas
 
-*Linguagens**
+**Linguagens**
 
 ![Python](https://img.shields.io/badge/Python-1D9E75?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-BA7517?style=flat-square&logo=openjdk&logoColor=white)
