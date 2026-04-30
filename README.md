@@ -90,9 +90,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiagoaugustofonseca-a11y&show_icons=true&theme=default&hide_border=true&title_color=1D9E75&icon_color=534AB7&text_color=444441)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiagoaugustofonseca&show_icons=true&theme=default&hide_border=true&title_color=1D9E75&icon_color=534AB7&text_color=444441)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoaugustofonseca-a11y&layout=compact&hide_border=true&title_color=1D9E75&text_color=444441)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoaugustofonseca&layout=compact&hide_border=true&title_color=1D9E75&text_color=444441)
 
 </div>
 
